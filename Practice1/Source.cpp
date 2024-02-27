@@ -6,6 +6,10 @@ int Zibeyda(int a)
 	return a+1;
 }
 
+void Def()
+{
+	cout << 1;
+}
 void foo()
 {
 	cout << "git hub practice" << endl;
